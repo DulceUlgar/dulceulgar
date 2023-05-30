@@ -3,8 +3,6 @@
 I am a creative person and passionate about technology. I love experimenting with new tools and programs to create new and interesting things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, singing, and reading about different cultures and ways of life.
 
 <h3 align="left">About me</h3>
- <div <img src="https://github.com/DulceUlgar/dulceulgar/assets/133334486/ec65e58a-6941-4f72-b382-df07d4990f2d" alt="mi avatar"></div>
-
 <ul>
   <li>👩 I'm a Junior FrontEnd Developer</li>
   <li>🧠 Always learning new things for feeding my mind</li>
@@ -25,13 +23,8 @@ I am a creative person and passionate about technology. I love experimenting wit
 <a href="https://www.gimp.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-line.svg" alt="gimp" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
   
+
   
-  <h3 align="left"> Contact </h3>
-   
-   <p align="left">
-   <a href="[https://www.linkedin.com/in/dulce-ulgar-lozano-55127717a/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulce-ulgar-lozano" height="30" width="40" /></a>
-</p>
-   
    
   
   
